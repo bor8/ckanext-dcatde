@@ -1,4 +1,4 @@
-ckan==2.5.2
+ckan==2.5.3
 ckanapi>=3,<4
 ckanext-dcat==0.0.6
 requests>=2.7,<3.0
